@@ -1,0 +1,233 @@
+# English translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-02-22 17:49+0200\n"
+"PO-Revision-Date: 2022-02-22 15:37+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: hendlers.py:37
+msgid "Ваша мова була змінена"
+msgstr "Your language has been changed"
+
+#: hendlers.py:38
+msgid "Для роботи з ботом натисни /menu"
+msgstr "To work with the bot press /menu"
+
+#: hendlers.py:44
+msgid "Для роботи з ботом, скористайтесь меню:"
+msgstr "To work with the bot, use the menu:"
+
+#: hendlers.py:48 keyboards/client_btn.py:7
+msgid "Де ви знаходитесь? 📍"
+msgstr "Where are you? 📍"
+
+#: hendlers.py:50
+msgid ""
+"Вітаю {message}! Ми знаходимося у центрі Києва, вул. Жилянська 5-Б, м. "
+"Олімпійська. З нами можна ewrewrзв'язатися за тел. 0970817651 "
+"(12:00-20:00), або ж у Telegram https://t.me/CasaderitmoAcademy"
+msgstr ""
+"Hello {message}! We are located in the center of Kiev, st. Zhylyanska "
+"5-B, Olimpiiska metro station. You can contact us by phone: 0970817651 "
+"(12: 00-20: 00), or in the Telegram https://t.me/CasaderitmoAcademy"
+
+#: hendlers.py:58 keyboards/client_btn.py:10
+msgid "Як нас знайти"
+msgstr "How to find us"
+
+#: hendlers.py:63 keyboards/client_btn.py:11
+msgid "Поширені запитання❓"
+msgstr "FAQ❓"
+
+#: hendlers.py:67 hendlers.py:115
+msgid "Інше питання? ☎️ тел. 0970817651 (12:00-20:00)"
+msgstr "More questions? 📲 097 081 76 51 (12:00-20:00)"
+
+#: hendlers.py:70 hendlers.py:118 hendlers.py:137
+msgid ""
+"Спілкування з ботом можливе через ПП, напишіть йому:\n"
+"@Casa_test_bot"
+msgstr ""
+"Communication with the bot is possible through private messages, text to "
+"him:\n"
+"@Casa_test_bot"
+
+#: hendlers.py:73 keyboards/client_btn.py:23
+msgid "Дізнатись розклад"
+msgstr "Lessons schedule"
+
+#: hendlers.py:79 keyboards/client_btn.py:24
+msgid "Вартість занять"
+msgstr "Cost of lessons"
+
+#: hendlers.py:86 keyboards/client_btn.py:27
+msgid "Групи для початківців"
+msgstr "Beginner's groups"
+
+#: hendlers.py:91 keyboards/client_btn.py:28
+msgid "Індивідуальне заняття"
+msgstr "Individual studies"
+
+#: hendlers.py:96 keyboards/client_btn.py:31
+msgid "Я не розуміюсь у напрямках"
+msgstr "I don't know the directions"
+
+#: hendlers.py:98
+msgid "Види напрямків: "
+msgstr "Types of directions:"
+
+#: hendlers.py:101 keyboards/client_btn.py:44
+msgid "Парні"
+msgstr "Pair"
+
+#: hendlers.py:103
+msgid "Парні види танців: "
+msgstr "Paired dances:"
+
+#: hendlers.py:106 keyboards/client_btn.py:47
+msgid "Сольні"
+msgstr "Solo"
+
+#: hendlers.py:108
+msgid "Сольні види танців :"
+msgstr "Solo dances:"
+
+#: hendlers.py:111 keyboards/client_btn.py:14
+msgid "Співпраця"
+msgstr "Cooperation"
+
+#: hendlers.py:121 keyboards/client_btn.py:59
+msgid "Оренда залу💃🕺"
+msgstr "Hall rental💃🕺"
+
+#: hendlers.py:125
+msgid "Оренда залу при 100% передоплаті. Деталі у \"Правилах оренди\"."
+msgstr "Rent the hall with 100% prepayment. Details in the \"Rental Rules\"."
+
+#: hendlers.py:130 keyboards/client_btn.py:35 keyboards/client_btn.py:50
+#: keyboards/client_btn.py:60
+msgid "Вернутись назад🔙"
+msgstr "Back 🔙"
+
+#: hendlers.py:134
+msgid "Для роботи з ботом, скористайтеся меню:"
+msgstr "To work with the bot, use the menu:"
+
+#: hendlers.py:142
+msgid ""
+"Якщо ви не знайшли відповіді на ваше запитання, або все супер! І ви "
+"хочете записатися на заняття або співпрацювати - напишіть нашому "
+"адміністратору https://t.me/CasaderitmoAcademy"
+msgstr ""
+"If you did not find the answer to your question, or everything is great! "
+"And you want to sign up for classes or collaborate - write to our administrator https://t.me/CasaderitmoAcademy"
+
+#: keyboards/client_btn.py:34
+msgid "Хочу знати більше"
+msgstr "I want to know more"
+
+#: keyboards/inline_client_btn.py:7
+msgid "Кізомба"
+msgstr "Kizomba"
+
+#: keyboards/inline_client_btn.py:10
+msgid "Бачата"
+msgstr "Bachata"
+
+#: keyboards/inline_client_btn.py:13
+msgid "Сальса"
+msgstr "Salsa"
+
+#: keyboards/inline_client_btn.py:38
+msgid "Правила оренди (PDF)"
+msgstr "Rental rules (PDF)"
+
+#: text/text_var.py:3
+msgid ""
+"Групи для початківців/будь-якого рівня:\n"
+"\n"
+"Парні:\n"
+"👉Salsa&Bachata (з \"0\")вт/чт 21:00 \n"
+"\n"
+"Сольні:\n"
+"👉MagicWomen/Yoga (з \"0\")\n"
+"пн/ср 12:00 \n"
+"👉Bachata LadyStyle (з \"0\")\n"
+"пн/ср 20:00\n"
+"👉BodyPositive (40+) (будь-який рівень)\n"
+"вт/чт 18:00\n"
+"👉Bachata LadyStyle (з \"0\")\n"
+"вт/чт 19:00\n"
+"👉Latina (будь-який рівень)\n"
+"вт/чт 19:00\n"
+"👉Reggaeton (будь-який рівень)\n"
+"вт/чт 21:00"
+msgstr ""
+"Groups for beginners/any level:\n"
+"\n"
+"Groups for beginners/any level:\n"
+"👉Salsa&Bachata (with \"0\")Tue/Thu 21:00 \n"
+"\n"
+"Solo:\n"
+"👉MagicWomen/Yoga (with \"0\")\n"
+"Mon/Wed 12:00\n"
+"👉Bachata LadyStyle (with \"0\")\n"
+"Mon/Wed 20:00\n"
+"👉BodyPositive (40+) (any level)\n"
+"Tue/Thu 18:00\n"
+"👉Bachata LadyStyle (with \"0\")\n"
+"Tue/Thu 19:00\n"
+"👉Latina (any level)\n"
+"Tue/Thu 19:00\n"
+"👉Reggaeton (any level)\n"
+"Tue/Thu 21:00"
+
+#: text/text_var.py:23
+msgid ""
+"Індивідуальні заняття з Salsa/Bachata/Kizomba/LadyStyle/Classic "
+"dance/Stretching/Yoga/Reggaeton.\n"
+"\n"
+"Вартість*:\n"
+"💳Для одного 650 грн\n"
+"💳Для двох 750 грн\n"
+"За кожного доданого учасника +100 грн\n"
+"Акція 5+1: При покупці п'яти занять - шосте у подарунок.\n"
+"\n"
+"💳Для одного\n"
+"3250грн замість 3900 грн\n"
+"💳Для двох\n"
+"3750 грн замість 4500 грн\n"
+"\n"
+"*У вартість входить оренда комфортного залу з кондиціонером в 2х хвилинах"
+" від м. Олімпійська."
+msgstr ""
+"Private lessons in Salsa/Bachata/Kizomba/LadyStyle/Classic "
+"dance/Stretching/Yoga/Reggaeton.\n"
+"\n"
+"Cost*:\n"
+"💳For one 650 UAH\n"
+"💳For two 750 UAH\n"
+"For each added participant +100 UAH\n"
+"Promotion 5+1: Buy five lessons and get the sixth free.\n"
+"\n"
+"💳For one\n"
+"3250 UAH instead of 3900 UAH\n"
+"💳For two\n"
+"3750 UAH instead of 4500 UAH\n"
+"\n"
+"*The price includes the rental of a comfortable room with air "
+"conditioningin 2 minutes from metro station Olimpiiska."
+
